@@ -1,4 +1,4 @@
-# ppl
+# Project peminjaman aula BPSDM
 
 Nama Kelompok:
 - Restu Dermawan Muhammad (D1041221021) (Project Manager)
